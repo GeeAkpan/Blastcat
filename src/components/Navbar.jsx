@@ -48,7 +48,6 @@ export default function Navbar() {
             <a href="#about" className="nav-link" onClick={() => setMobileMenuOpen(false)}>About (The Lore)</a>
             <a href="#trade" className="nav-link" onClick={() => setMobileMenuOpen(false)}>Trade on Blast.fun</a>
             <a href="#tokenomics" className="nav-link" onClick={() => setMobileMenuOpen(false)}>Tokenomics</a>
-            <a href="#roadmap" className="nav-link" onClick={() => setMobileMenuOpen(false)}>Roadmap</a>
             <a href="#faq" className="nav-link" onClick={() => setMobileMenuOpen(false)}>FAQs</a>
           </div>
 

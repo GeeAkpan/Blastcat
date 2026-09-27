@@ -28,7 +28,6 @@ export default function Footer() {
             <li><a href="#about">About (The Lore)</a></li>
             <li><a href="#trade">Trade on Blast.fun</a></li>
             <li><a href="#tokenomics">Tokenomics</a></li>
-            <li><a href="#roadmap">Roadmap</a></li>
             <li><a href="#faq">FAQs</a></li>
           </ul>
         </div>

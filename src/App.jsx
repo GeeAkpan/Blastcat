@@ -5,7 +5,6 @@ import Hero from './components/Hero'
 import LoreSection from './components/LoreSection'
 import BondingCurveTracker from './components/BondingCurveTracker'
 import Tokenomics from './components/Tokenomics'
-import Roadmap from './components/Roadmap'
 import FAQ from './components/FAQ'
 import Footer from './components/Footer'
 
@@ -38,8 +37,7 @@ export default function App() {
           2. About (The Lore)
           3. Trade on Blast.fun
           4. Tokenomics
-          5. Roadmap
-          6. FAQs
+          5. FAQs
       */}
       <main>
         {/* 1. Home */}
@@ -54,14 +52,11 @@ export default function App() {
         {/* 4. Tokenomics */}
         <Tokenomics />
 
-        {/* 5. Roadmap */}
-        <Roadmap />
-
-        {/* 6. FAQs */}
+        {/* 5. FAQs */}
         <FAQ />
       </main>
 
-      {/* 7. Footer */}
+      {/* Footer */}
       <Footer />
 
       {/* Toast Notification Container */}
